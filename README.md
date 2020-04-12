@@ -1,0 +1,2 @@
+# testkod
+Kodlarni ishlatish
